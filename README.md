@@ -31,11 +31,11 @@ $(EXEC): $(OBJ)
 clean:
 	rm -rf $(OBJ) $(EXEC)
 ```
-    
+
 
 Since this is a comment and not executable code, there is no need to provide any additional code beyond the immediate scope of the code block.
 # c++ code blocks should not be included
-```
+```c++
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
