@@ -1,0 +1,11 @@
+@echo off
+echo . "not 0 die off"
+echo . "live stream connect matrix"
+echo . "connected matrix"
+echo . "matrix"
+echo . "start life"
+echo . "connect life in matrix live stream"
+start cd /home/admin/
+start ./home/admin/
+exit 0
+
